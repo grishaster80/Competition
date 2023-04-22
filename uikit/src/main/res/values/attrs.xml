@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UiKitButtonAttributes">
+        <attr name="button_text" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="UiKitCardExpandable">
+        <attr name="card_expandable_header_text" format="string"/>
+        <attr name="card_expandable_subheader_text" format="string"/>
+        <attr name="card_expandable_button_text" format="string"/>
+        <attr name="card_expandable_icon" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="UiKitCardClosable">
+        <attr name="card_closable_title_text" format="string"/>
+        <attr name="card_closable_description_text" format="string"/>
+        <attr name="card_closable_is_closable" format="boolean"/>
+        <attr name="card_closable_icon" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="UiKitCardScrollableVerticalItem">
+        <attr name="card_scrollable_title" format="string"/>
+        <attr name="card_scrollable_description" format="string"/>
+        <attr name="card_scrollable_icon" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="UiKitCardScrollableMain">
+        <attr name="card_scrollable_main_title" format="string"/>
+        <attr name="card_scrollable_main_button_bold_text" format="string"/>
+        <attr name="card_scrollable_main_button_main_text" format="string"/>
+    </declare-styleable>
+</resources>

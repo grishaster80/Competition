@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ui_kit_header_text_color">#333333</color>
+    <color name="ui_kit_subheader_text_color">#9299A2</color>
+    <color name="ui_kit_title_text_color">#333333</color>
+    <color name="ui_kit_description_text_color">#9299A2</color>
+
+
+    <color name="ui_kit_button_background_color">#0F001024</color>
+    <color name="ui_kit_button_text_color">#428BF9</color>
+
+    <color name="ui_kit_card_background_color">#F6F7F8</color>
+</resources>

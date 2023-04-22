@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HeaderTextStyle">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textColor">@color/ui_kit_header_text_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="SubheaderTextStyle">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/ui_kit_subheader_text_color</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/ui_kit_title_text_color</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="DescriptionTextStyle">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/ui_kit_description_text_color</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="ButtonBoldTextStyle">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/uikit_button_bold_text_size</item>
+        <item name="android:textColor">@color/ui_kit_button_text_color</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="ButtonTextStyle">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/uikit_button_text_size</item>
+        <item name="android:textColor">@color/ui_kit_button_text_color</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+</resources>
